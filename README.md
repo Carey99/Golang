@@ -2,8 +2,8 @@
 
 | Day | Task/Topic                          | Description                                                       | Status |
 |-----|-------------------------------------|-------------------------------------------------------------------|--------|
-| 1   | Install and Setup Go                | Install Go, set up IDE (VS Code/GoLand), and `go mod`.            |        |
-| 2   | Go Syntax Basics                    | Learn `package`, `func main`, variables (`:=`), and data types.   |        |
+| 1   | Install and Setup Go                | Install Go, set up IDE (VS Code/GoLand), and `go mod`.            |  Done  |
+| 2   | Go Syntax Basics                    | Learn `package`, `func main`, variables (`:=`), and data types.   |  Done  |
 | 3   | Control Flow                        | Explore `if-else`, `switch`, `for`, and `range`.                  |        |
 | 4   | Functions                           | Practice functions, return values, variadic functions, and named returns. |        |
 | 5   | Error Handling                      | Learn `if err != nil`, `defer`, `panic`, and `recover`.           |        |
