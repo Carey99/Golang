@@ -4,7 +4,7 @@
 |-----|-------------------------------------|-------------------------------------------------------------------|--------|
 | 1   | Install and Setup Go                | Install Go, set up IDE (VS Code/GoLand), and `go mod`.            |  Done  |
 | 2   | Go Syntax Basics                    | Learn `package`, `func main`, variables (`:=`), and data types.   |  Done  |
-| 3   | Control Flow                        | Explore `if-else`, `switch`, `for`, and `range`.                  |        |
+| 3   | Control Flow                        | Explore `if-else`, `switch`, `for`, and `range`.                  |  Done  |
 | 4   | Functions                           | Practice functions, return values, variadic functions, and named returns. |        |
 | 5   | Error Handling                      | Learn `if err != nil`, `defer`, `panic`, and `recover`.           |        |
 | 6   | Pointers                            | Understand references and memory management with pointers.        |        |
