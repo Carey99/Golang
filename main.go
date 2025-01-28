@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"
 	"Golang/greeting"
+	"fmt"
 )
 
 func main() {
