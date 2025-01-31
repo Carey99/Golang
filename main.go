@@ -1,11 +1,11 @@
 package main
 
 import (
-	"Golang/greeting"
+	"Golang/Exercises/mathutils"
 	"fmt"
 )
 
 func main() {
-	hied := greeting.Sayhello("Carey")
-	fmt.Println(hied)
+	sq := mathutils.Square(2)
+	fmt.Println(sq)
 }

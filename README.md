@@ -7,7 +7,7 @@
 | 3   | Control Flow                        | Explore `if-else`, `switch`, `for`, and `range`.                  |  Done  |
 | 4   | Functions                           | Practice functions, return values, variadic functions, and named returns. |        |
 | 5   | Error Handling                      | Learn `if err != nil`, `defer`, `panic`, and `recover`.           |        |
-| 6   | Pointers                            | Understand references and memory management with pointers.        |        |
+| 6   | Pointers                            | Understand references and memory management with pointers.        |  Done      |
 | 7   | Structs and Methods                 | Work with `structs`, methods, and embedding.                      |        |
 | 8   | Interfaces                          | Explore polymorphism with `interfaces` and type assertions.       |        |
 | 9   | Slices and Maps                     | Learn slice operations and `map` key-value pairs.                 |        |
