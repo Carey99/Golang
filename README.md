@@ -9,7 +9,7 @@
 | 5   | Error Handling                       | Learn `if err != nil`, `defer`, `panic`, and `recover`.                   | Done   |
 | 6   | Pointers                             | Understand references and memory management with pointers.                | Done   |
 | 7   | Structs and Methods                  | Work with `structs`, methods, and embedding.                              | Done   |
-| 8   | Interfaces                           | Explore polymorphism with `interfaces` and type assertions.               |        |
+| 8   | Interfaces                           | Explore polymorphism with `interfaces` and type assertions.               | Done   |
 | 9   | Slices and Maps                      | Learn slice operations and `map` key-value pairs.                         | Done   |
 | 10  | Goroutines and Channels Basics       | Start with `goroutines` and `channels`.                                   |        |
 | 11  | Advanced Concurrency                 | Dive into buffered/unbuffered channels, `select`, and synchronization.    |        |
